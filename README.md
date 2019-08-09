@@ -13,3 +13,7 @@ What if instead, there was a kiosk with an app that allowed you to type in the b
 This would surely increase customer satisfaction when it comes to shopping for fragrance gifts for the customer and their friends and family.
 
 #      :raised_hands:
+
+---
+
+This could be achieved by scraping perfume/cologne descriptions from Macys/Sephora's website and using NLP to help bin certain fragrences together with a unsupervised machine learning algorithm such as K-means.
