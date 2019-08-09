@@ -8,7 +8,7 @@ What if instead, there was a kiosk with an app that allowed you to type in the b
 
 - other perfumes with similar characteristics
 - similar perfumes that are cheaper
-- Or maybe a similar profile perfume/cologne for your partner
+- or maybe a similar profile perfume/cologne for your partner
 
 This would surely increase customer satisfaction when it comes to shopping for fragrance gifts for the customer and their friends and family.
 
