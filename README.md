@@ -12,4 +12,4 @@ What if instead, there was a kiosk with an app that allowed you to type in the b
 
 This would surely increase customer satisfaction when it comes to shopping for fragrance gifts for the customer and their friends and family.
 
-# :raised_hands:
+#      :raised_hands:
